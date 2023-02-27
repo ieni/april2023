@@ -57,15 +57,15 @@ zijn zij ook in staat verbinding met andere vakken te leggen.
   
 Waarom zou u op deze conferentie aanwezig willen zijn?
 
-* Ontmoet vakcollega’s uit PO VO en SO
+* Ontmoet vakcollega’s uit PO, VO en SO
 * Volg de laatste ontwikkelingen van digitale geletterdheid in de vakken
-* Maak kennis met de mogelijkheden en zorgen omtrent AI (artificiele intelligentie)
+* Maak kennis met de mogelijkheden en zorgen omtrent AI (artificiële intelligentie)
 * Denk mee over doorlopende leerlijnen
 * Doe mee aan hands-on sessies computational thinking
 * Ga zelf aan de slag en maak kennis met Hedy, Micro Bit en BJOC
 * Kom naar de Conferentie Digitale Geletterdheid op 13 april  
 * Alle expertise voor het onderwijs komt meer tot haar recht als de expertise-krachten in het onderwijs zich meer bundelen. 
-* Voor iedereen geldt, word lid van i&i de vakvereniging voor informatica en digitale geletterdheid. Of je nu docent informatica bent, of docent biologie, bovenschoolse ict’er, beleidsmedewerker of groepsleerkracht in het primair onderwijs, meld je aan als lid en steun met jouw lidmaatschap de ontwikkeling van gedeelde expertise.
+* Voor iedereen geldt, word lid van i&i de vakvereniging voor informatica en digitale geletterdheid. Of je nu docent informatica bent, of docent biologie, bovenschoolse ict’er, beleidsmedewerker of groepsleerkracht in het primair onderwijs, of lerarenopleider aan HBO of universiteit, meld je aan als lid en steun met jouw lidmaatschap de ontwikkeling van gedeelde expertise.
 
 ## Programma
 
