@@ -63,7 +63,6 @@ Waarom zou u op deze conferentie aanwezig willen zijn?
 * Denk mee over doorlopende leerlijnen
 * Doe mee aan hands-on sessies computational thinking
 * Ga zelf aan de slag en maak kennis met Hedy, Micro Bit en BJOC
-* Kom naar de Conferentie Digitale Geletterdheid op 13 april  
 * Alle expertise voor het onderwijs komt meer tot haar recht als de expertise-krachten in het onderwijs zich meer bundelen. 
 * Voor iedereen geldt, word lid van i&i de vakvereniging voor informatica en digitale geletterdheid. Of je nu docent informatica bent, of docent biologie, bovenschoolse ict’er, beleidsmedewerker of groepsleerkracht in het primair onderwijs, of lerarenopleider aan HBO of universiteit, meld je aan als lid en steun met jouw lidmaatschap de ontwikkeling van gedeelde expertise.
 
@@ -76,6 +75,8 @@ over de kansen die AI biedt voor het onderwijs.
 Daarna is er een forumdiscussie over de kansen en de bedreigingen
 van AI in het onderwijs, met leerlingen, docenten, andere experts en beleidsmakers.
 
+[<img src="{{'/assets/ieni-april-2023-programma-230306.png' | relative_url}}" width="700">]({{'/assets/ieni-april-2023-programma-230306.png' | relative_url}}){:target="_blank"}
+
 De rest van het programma begint het definitieve stadium te bereiken.
 Binnenkort vind je hier de titels en de samenvattingen van de andere programma-onderdelen.
 Hierbij komen alle groepen aan bod, met digitale geletterdheid in het PO,
@@ -84,5 +85,3 @@ en informatica in de bovenbouw VO.
 In de sessies komt digitale geletterdheid en computational thinking 
 in praktijk van de les aan bod - met de nodige voorbeelden van collega-docenten.
 Daarnaast zijn er sessies waarmee docenten kunnen werken aan hun eigen digitale geletterdheid.
-
-
