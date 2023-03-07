@@ -75,7 +75,9 @@ over de kansen die AI biedt voor het onderwijs.
 Daarna is er een forumdiscussie over de kansen en de bedreigingen
 van AI in het onderwijs, met leerlingen, docenten, andere experts en beleidsmakers.
 
-[<img src="{{'/assets/ieni-april-2023-programma-230306.png' | relative_url}}" width="700">]({{'/assets/ieni-april-2023-programma-230306.png' | relative_url}}){:target="_blank"}
+**Het onderstaande programma is voorlopig: de volgorde en inhoud kan nog veranderen.**
+
+[<img src="{{'/assets/ieni-april-2023-programma-230307.png' | relative_url}}" width="700">]({{'/assets/ieni-april-2023-programma-230307.png' | relative_url}}){:target="_blank"}
 
 De rest van het programma begint het definitieve stadium te bereiken.
 Binnenkort vind je hier de titels en de samenvattingen van de andere programma-onderdelen.
