@@ -22,8 +22,8 @@
     {% comment %}
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
     {% endcomment %}
- {% comment %}   
-    <span class="sidebar-nav-item">Sessies:</span>
+ 
+    <span class="sidebar-nav-item">Algemeen:</span>
     {% assign algemeen_list = site.algemeen %}
     {% for node in algemeen_list %}
       {% if node.title != null %}
@@ -37,7 +37,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-{% endcomment %}   
+
 
     <span class="sidebar-nav-item">Digitale geletterdheid:</span>
     {% assign dg_list = site.dg %}
