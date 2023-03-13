@@ -77,7 +77,7 @@ van AI in het onderwijs, met leerlingen, docenten, andere experts en beleidsmake
 
 **Het onderstaande programma is voorlopig: de volgorde en inhoud kan nog veranderen.**
 
-[<img src="{{'/assets/ieni-april-2023-programma-230308.png' | relative_url}}" width="700">]({{'/assets/ieni-april-2023-programma-230308.png' | relative_url}}){:target="_blank"}
+[<img src="{{'/assets/ieni-april-2023-programma-230313.png' | relative_url}}" width="700">]({{'/assets/ieni-april-2023-programma-230313.png' | relative_url}}){:target="_blank"}
 
 De rest van het programma begint het definitieve stadium te bereiken.
 Binnenkort vind je hier de titels en de samenvattingen van de andere programma-onderdelen.
