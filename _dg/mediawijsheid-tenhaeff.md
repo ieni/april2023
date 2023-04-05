@@ -5,7 +5,7 @@ title: Mediawijs door reflectie
 
 **Bram Tenhaeff**
 
-**Deze sessie gaat niet door**
+**Deze sessie vervalt**
 
 Toen mijn jongste  kinderen 11 en 13 waren zaten ze 7,5 uur per dag op hun
 mobiel. Daarom schreef ik de Apencultuur: een 4HV NLT module van 2x6= 12 uur
