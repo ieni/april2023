@@ -75,13 +75,13 @@ over de kansen die AI biedt voor het onderwijs.
 Daarna is er een forumdiscussie over de kansen en de bedreigingen
 van AI in het onderwijs, met leerlingen, docenten, andere experts en beleidsmakers.
 
-**Het onderstaande programma is voorlopig: de volgorde en inhoud kan nog veranderen.**
+Hieronder zie je het complete programma. (BBG = Buys Ballot Gebouw, aan het einde van de gang,
+door de klapdeuren. Het eerste cijfer geeft de verdieping aan.)
 
 [<img src="{{'/assets/ieni-april-2023-programma-230411.png' | relative_url}}" width="700">]({{'/assets/ieni-april-2023-programma-230411.png' | relative_url}}){:target="_blank"}
 
-De rest van het programma begint het definitieve stadium te bereiken.
-Binnenkort vind je hier de titels en de samenvattingen van de andere programma-onderdelen.
-Hierbij komen alle groepen aan bod, met digitale geletterdheid in het PO,
+Via de linker zijbalk vind je de samenvattingen van de andere programma-onderdelen.
+Daarbij komen alle groepen aan bod, met digitale geletterdheid in het PO,
 computational thinking in je vak in de onderbouw VO,
 en informatica in de bovenbouw VO.
 In de sessies komt digitale geletterdheid en computational thinking 
