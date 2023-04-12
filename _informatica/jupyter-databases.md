@@ -5,6 +5,8 @@ title: Databases met Jupyter Notebook
 
 **Eelco Dijkstra**
 
+*De presentatie voor deze bijeenkomst is te vinden via: [db-basthon](https://eelcodijkstra.github.io/db-basthon/intro.html){:target="_blank"}*
+
 Jupyter Notebook combineert opgemaakte tekst met uitvoerbare code, 
 in de vorm van een interactief notebook.
 Deze combinatie leent zich bij uitstek voor informatica-onderwijs.
