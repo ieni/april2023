@@ -11,6 +11,11 @@ title: Home
 Welkom bij de website van de i&i voorjaarsconferentie: 
 *Digitale geletterdheid in je eigen les, in je eigen vak*.
 
+De conferentie op donderdag 13 april 2023 was een succes: 
+informatief en inspirerend voor de deelnemers.
+
+**Binnenkort vind je op deze website de presentaties van de sprekers.**
+
 Deze conferentie is bedoeld voor docenten in het PO en in de onderbouw VO
 die Digitale geletterdheid op hun school en in hun les willen vormgeven - 
 en zich afvragen hoe ze daarmee hun vak aantrekkelijker kunnen maken.
@@ -26,14 +31,6 @@ om daarmee hun lessen met digitale geletterdheid en computational thinking
 een extra dimensie te geven.
 
 Daarnaast geven we zoals gewoonlijk, aandacht aan informatica in de VO-bovenbouw.
-
-Praktische gegevens:
-
-* datum: 13 april, 9:00 - 17:30 uur
-* lokatie: [Victor J. Koningsbergergebouw](https://www.uu.nl/victor-j-koningsbergergebouw){:target="_blank"},
-Universiteit Utrecht
-* Aanmelden via **[deze link](https://www.smink-registratie.nl/ieni/){:target="_blank"}**
-* [Ik wil lid worden van i&i](https://www.ieni.org/lid-worden/)
 
 ## Waarom deze conferentie?
 

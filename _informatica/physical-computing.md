@@ -33,6 +33,8 @@ Verschillende docenten hebben daarvoor hun eigen praktische oplossingen.
 **Neem je laptop mee!** - om zelf aan de slag te gaan. 
 Je kunt tijdens de sessie op elk moment binnenlopen, rondkijken, en uitproberen.
 
+[Link naar microbit-Python opdrachten](https://eelcodijkstra.github.io/microbitbook/intro.html){:target="_blank"}
+
 ## Themateam Physical Computing
 
 Het team bestaat nu uit de volgende enthousiaste docenten: Sonja Steiger (Atlas College),
