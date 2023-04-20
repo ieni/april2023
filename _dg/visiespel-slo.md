@@ -7,6 +7,8 @@ title: SLO visiespel DG
 
 **Martin Klein Tank, Gäby van der Linde (SLO)**
 
+*[Presentatie (PDF)]({{'/public/pdf/20230413-SLO-visiespel.pdf' | relative_url}}){:target="_blank"}*
+
 Wat is digitale geletterdheid? Wanneer ben je digitaal geletterd en waarom is
 dat belangrijk? Hoe geef je op jouw school aandacht aan digitale
 geletterdheid? Hoe ontwerp je een schoolcurriculum met een goede mix van

@@ -5,6 +5,8 @@ title: Wiskunde en digitale geletterdheid
 
 **Ronald Keijzer, Hogeschool iPabo**
 
+*[Presentatie (PDF)]({{'/public/pdf/20230413-wisk-digit-geletterdheid.pdf' | relative_url}}){:target="_blank"}*
+
 Een belangrijk doel van het onderwijs is leerlingen wiskundig geletterd te
 maken. Als je wiskundig geletterd bent, ben je in staat daar waar dat nodig en
 relevant is de wereld te beschouwen door een wiskundige bril. En dat

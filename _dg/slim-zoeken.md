@@ -5,6 +5,8 @@ title: Slim zoeken
 
 **Maarten Sprenger**
 
+*[Presentatie (PDF)]({{'/public/pdf/20230413-slim-zoeken.pdf' | relative_url}}){:target="_blank"}*
+
 In de loop van ruim tien jaar werken aan Slim Zoeken is de focus verschoven
 van *slimme zoektrucs gebruiken*, via *leren omgaan met online informatie* naar
 *zelf sturen of gestuurd worden*. Bij het online zoeken en vinden van informatie
