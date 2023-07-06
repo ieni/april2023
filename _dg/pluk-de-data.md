@@ -7,7 +7,7 @@ title: "Pluk de data"
 
 **Bert Bredeweg, Albert Logtenberg, Josefie Sweep, Sharon Calor**
 
-*[Presentatie (PDF)]('https://research.hva.nl/en/activities/pluk-de-data-computational-thinking-in-je-vak'){:target="_blank"}*
+*[Presentatie (PDF)](https://research.hva.nl/en/activities/pluk-de-data-computational-thinking-in-je-vak){:target="_blank"}*
 
 
 Docenten en lerarenopleiders constateren dat het benutten van data een steeds 
